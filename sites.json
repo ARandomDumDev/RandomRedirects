@@ -1,4 +1,4 @@
 {
-  "ExperienceInstall": "https://loadly.io/app/install/39e817880debb07858575b48cf98e8d3?time=1763538821807&lang=en&finalCode=941559820118&installToken=%2FI9XlCtxTfhIsEYfXE%2BxOcBRNVxfGYj2%2FAHx6bmIQooMLNCZPRirydLE5YhB7QRy",
-  "test": "youtube.com"
+  "ExperienceInstall": "itms-services://?action=download-manifest&url=https://loadly.io/app/plist/d6470599d53b48a02a276e49fb477776",
+  "test": "https://youtube.com/"
 }
